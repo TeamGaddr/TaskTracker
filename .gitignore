@@ -1,0 +1,44 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+bin/
+obj/
+
+# NuGet
+*.nupkg
+.project.lock.json
+.nuget/
+
+# Rider
+.idea/
+
+# Visual Studio Code
+.vscode/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
+
+# Secret files
+appsettings.Local.json
+
+# Publish
+publish/
+
+# Packages
+packages/
+
+# IIS Express
+.iisexpress/

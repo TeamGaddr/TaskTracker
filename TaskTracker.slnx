@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/solution items/">
+    <File Path="Directory.Build.props" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="src/TaskTracker.Api/TaskTracker.Api.csproj" />
+    <Project Path="src/TaskTracker.Application/TaskTracker.Application.csproj" />
+    <Project Path="src/TaskTracker.Domain/TaskTracker.Domain.csproj" />
+    <Project Path="src/TaskTracker.Infrastructure/TaskTracker.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="TestProject1/TaskTracker.Application.Tests.csproj" Id="25e77d1f-7713-4251-b0ca-b1c422fc7a8e" />
+  </Folder>
+</Solution>
